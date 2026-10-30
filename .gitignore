@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+*.iml
+target/
+**/target/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+uploads/
+**/uploads/
+frontend/uploads/
+.env
+.env.*
+*.log
+.DS_Store
+backend/HELP.md
